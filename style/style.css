@@ -1,0 +1,22 @@
+body{
+    background-color: #272763;
+}
+
+.container{
+    width: 60%;
+    justify-content: center;
+    align-items: center;
+    margin-top: 80px;
+}
+
+.title{
+    margin: 50px auto;
+    color: #e692ff;
+   text-align: center;
+
+}
+
+.ad-image{
+    width: 850px;
+    margin: 20px auto;
+}
